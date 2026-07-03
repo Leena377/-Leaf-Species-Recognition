@@ -1,0 +1,33 @@
+species,accuracy,support
+Phyllostachys edulis,0.9167,12
+Aesculus chinensis,0.0000,13
+Berberis anhweiensis,0.0000,13
+Cercis chinensis,0.8000,15
+Indigofera tinctoria,0.2000,15
+Acer palmatum,1.0000,11
+Phoebe nanmu,0.8333,12
+Kalopanax septemlobus,0.8000,10
+Cinnamomum japonicum,0.0000,11
+Koelreuteria paniculata,0.6667,12
+Ilex macrocarpa,0.2000,10
+Pittosporum tobira,0.6923,13
+Chimonanthus praecox,1.0000,10
+Cinnamomum camphora,0.0000,13
+Viburnum awabuki,0.0000,12
+Osmanthus fragrans,0.4545,11
+Cedrus deodara,1.0000,16
+Ginkgo biloba,0.8333,12
+Lagerstroemia indica,0.6667,12
+Nerium oleander,0.0000,13
+Podocarpus macrophyllus,0.4167,12
+Prunus serrulata,0.0000,11
+Ligustrum lucidum,0.1818,11
+Toona sinensis,0.8462,13
+Prunus persica,0.0000,11
+Manglietia fordiana,0.3000,10
+Acer buergerianum,0.8182,11
+Mahonia bealei,1.0000,11
+Magnolia grandiflora,0.3636,11
+Populus x canadensis,0.6923,13
+Liriodendron chinense,0.5455,11
+Citrus reticulata,0.7273,11

@@ -1,0 +1,5 @@
+method,overall_accuracy,macro_per_class_accuracy
+Naive Bayes (classical),0.5000,0.4986
+k-NN (classical),0.5838,0.5689
+Linear SVM (deep silhouette),0.9634,0.9620
+Linear SVM (deep raw),0.9895,0.9883
